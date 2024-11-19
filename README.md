@@ -1,5 +1,7 @@
 # SBInduction-API
 
-A modern e-commerce platform designed to provide a seamless online shopping experience. The project includes basic features like product browsing, user authentication, a shopping cart, and an order management system. Built with a focus on scalability and user-friendly design.
+A modern e-commerce platform designed to provide a seamless online shopping experience. 
 
-Ideal for anyone looking to explore or enhance their skills in developing an online store application.
+Современная платформа электронной коммерции, разработанная для обеспечения удобного процесса онлайн-покупок. Проект включает в себя базовые функции, такие как просмотр товаров, аутентификация пользователей, корзина покупок и система управления заказами. Создана с учетом масштабируемости и удобного для пользователя дизайна.
+
+Идеально подходит для тех, кто хочет изучить или улучшить свои навыки в разработке приложений интернет-магазина.

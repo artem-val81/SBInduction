@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.haseeb.sblearn.controller;
+package com.artem.sblearn.controller;
 
-import com.haseeb.sblearn.entity.Products;
-import com.haseeb.sblearn.response.MessageResponse;
-import com.haseeb.sblearn.service.ProductService;
+import com.artem.sblearn.entity.Products;
+import com.artem.sblearn.response.MessageResponse;
+import com.artem.sblearn.service.ProductService;
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,7 +16,7 @@ import org.springframework.http.MediaType;
 
 /**
  *
- * @author abdul.haseeb
+ * @author abdul.artem
  */
 @RestController
 @RequestMapping("api/products")

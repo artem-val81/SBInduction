@@ -1,4 +1,4 @@
-package com.haseeb.sblearn;
+package com.artem.sblearn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

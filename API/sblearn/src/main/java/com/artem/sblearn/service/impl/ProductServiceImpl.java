@@ -2,15 +2,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.haseeb.sblearn.service.impl;
+package com.artem.sblearn.service.impl;
 
 import software.amazon.awssdk.core.sync.RequestBody;
 import software.amazon.awssdk.services.s3.model.GetObjectRequest;
 import software.amazon.awssdk.services.s3.model.PutObjectRequest;
 import software.amazon.awssdk.core.sync.ResponseTransformer;
-import com.haseeb.sblearn.entity.Products;
-import com.haseeb.sblearn.repository.ProductsRepository;
-import com.haseeb.sblearn.service.ProductService;
+import com.artem.sblearn.entity.Products;
+import com.artem.sblearn.repository.ProductsRepository;
+import com.artem.sblearn.service.ProductService;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
@@ -27,7 +27,7 @@ import org.springframework.beans.factory.annotation.Value;
 
 /**
  *
- * @author abdul.haseeb
+ * @author abdul.artem
  */
 @Service
 public class ProductServiceImpl implements ProductService {

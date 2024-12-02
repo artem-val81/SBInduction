@@ -8,7 +8,7 @@
         <version>3.1.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.haseeb</groupId>
+    <groupId>com.artem</groupId>
     <artifactId>sblearn</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>sbinduction</name>

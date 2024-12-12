@@ -6,7 +6,7 @@ package com.artem.sblearn.entity;
 
 /**
  *
- * @author abdul.artem
+ * @author artem.valerievich
  */
 public enum ERole {
 	  ROLE_USER,

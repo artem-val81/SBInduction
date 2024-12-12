@@ -6,7 +6,7 @@ package com.artem.sblearn.response;
 
 /**
  *
- * @author abdul.artem
+ * @author artem.valerievich
  */
 public class MessageResponse {
 

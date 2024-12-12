@@ -27,7 +27,7 @@ import org.springframework.beans.factory.annotation.Value;
 
 /**
  *
- * @author abdul.artem
+ * @author artem.valerievich
  */
 @Service
 public class ProductServiceImpl implements ProductService {

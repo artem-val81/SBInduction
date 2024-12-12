@@ -16,7 +16,7 @@ import org.springframework.http.MediaType;
 
 /**
  *
- * @author abdul.artem
+ * @author artem.valerievich
  */
 @RestController
 @RequestMapping("api/products")

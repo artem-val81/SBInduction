@@ -11,7 +11,7 @@ import com.artem.sblearn.entity.Products;
 
 /**
  *
- * @author abdul.artem
+ * @author artem.valerievich
  */
 public interface ProductsRepository extends JpaRepository<Products, Integer> {
     

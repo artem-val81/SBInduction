@@ -8,7 +8,7 @@ import jakarta.persistence.*;
 
 /**
  *
- * @author abdul.artem
+ * @author artem.valerievich
  */
 
 import jakarta.persistence.*;

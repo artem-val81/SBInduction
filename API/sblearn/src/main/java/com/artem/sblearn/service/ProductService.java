@@ -11,7 +11,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 /**
  *
- * @author abdul.artem
+ * @author artem.valerievich
  */
 public interface ProductService {
     
